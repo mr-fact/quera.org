@@ -1,5 +1,6 @@
 *.pyc
 *.idea
 *.swp
+*.zip
 venv/
 env/
